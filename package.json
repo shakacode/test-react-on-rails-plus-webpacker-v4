@@ -6,6 +6,7 @@
     "@rails/webpacker": "rails/webpacker",
     "prop-types": "^15.6.2",
     "react": "^16.5.2",
-    "react-dom": "^16.5.2"
+    "react-dom": "^16.5.2",
+    "react-on-rails": "11.1.8"
   }
 }
